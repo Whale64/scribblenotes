@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: scribble
+Version: 1.0
+Summary: A simple notetaking app built on pyqt6
+Author: whale64
+Project-URL: Homepage, https://github.com/Whale64/scribblenotes
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown

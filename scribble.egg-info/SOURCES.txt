@@ -1,0 +1,5 @@
+pyproject.toml
+scribble.egg-info/PKG-INFO
+scribble.egg-info/SOURCES.txt
+scribble.egg-info/dependency_links.txt
+scribble.egg-info/top_level.txt

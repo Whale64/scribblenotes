@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "scribble"
+version = "1.0"
+authors = [
+    { name = "whale64" }
+]
+description = "A simple notetaking app built on pyqt6"
+readme = "README.md"
+requires-python = ">=3.7"
+
+[dependencies]
+dependencies = [
+    "PyQt6>=6.6", 
+    "PyQt6-Qt6>=6.6", 
+]
+
+[project.urls]
+Homepage = "https://github.com/Whale64/scribblenotes"
+
+[tool.setuptools.packages.find]
+include = ["logo.png"]
